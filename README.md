@@ -1,5 +1,11 @@
-# 💫 About Me:
-  Hi 👋, I'm Vivek Kumar Full Stack Developer | Java Backend | Tech Learner<br>💻 I'm focused on becoming a strong full stack developer, with a deep interest in Java, Spring Boot.<br>🛠️ I enjoy building real-world web applications that solve practical problems<br>🎯 Currently preparing for tech interviews (DSA, System Design, Behavioral)<br>📚 Always learning — whether it’s backend, frontend, or design patterns<br>📫 Reach me at: vivek39101@gmail.com
+💫 About Me:
+
+Hi 👋, I'm Vivek Kumar — Full Stack Developer | Java Backend | Tech Learner  
+💻 I’m focused on becoming a strong full stack developer, with a deep interest in Java and Spring Boot  
+🛠️ I enjoy building real-world web applications that solve practical problems  
+🎯 Currently preparing for tech interviews (DSA, System Design, Behavioral)  
+📚 Always learning — whether it’s backend, frontend, or design patterns  
+📫 Reach me at: vivek39101@gmail.com
 
 
 ## 🌐 Socials:
