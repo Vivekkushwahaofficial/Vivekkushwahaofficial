@@ -62,4 +62,6 @@ Hi 👋, I'm Vivek Kumar — Full Stack Developer | Java Backend | Tech Learner
 ---
 [![](https://visitcount.itsvg.in/api?id=Vivekkushwahaofficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://komarev.com/ghpvc/?username=Goldi504&style=for-the-badge&color=brightgreen" alt="Visitor Count" width="100%">
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
