@@ -66,12 +66,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekkushwahaofficial&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vivekkushwahaofficial&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekkushwahaofficial&theme=radical&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkushwahaofficial&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vivekkushwahaofficial&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 ---
@@ -79,9 +79,8 @@
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
 </p>
-
 ---
 
 ## 🔝 Top Contributed Repositories
