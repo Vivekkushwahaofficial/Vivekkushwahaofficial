@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-
+- 💼 Currently an **Intern at Infosys Springboard**, building a project in the Java tech stack
 - 💻 Passionate about building scalable full-stack applications using **Java, Spring Boot, and React**
 - 🌱 Currently mastering Spring Boot, System Design & Backend Architecture
 - 🛠️ Experienced in REST APIs, Docker containerization, and cloud deployment (Render)
@@ -32,6 +32,10 @@
 
 ---
 
+## 💼 Experience
+
+**Intern | Infosys Springboard** *Currently working* - Developing a real-world project utilizing the Java technology stack and backend architecture.
+- Gaining hands-on experience with industry-standard development practices.
 ## 💻 Tech Stack
 
 ### 🧠 Programming
